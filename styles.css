@@ -14,7 +14,7 @@
 .red{
 	background-color: red;
 	}
-#container{
+.container{
 	display:flex;
 	background-color:lightgrey;
 	border-radius: 25px;
